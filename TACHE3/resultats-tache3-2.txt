@@ -1,0 +1,59 @@
+pour chaque image PBM du répertoire Tache3, on a :
+– son nom,
+– ses dimensions (largeur et hauteur),
+– et le nombre de segments du contour calculé
+
+
+nom : chat.pbm
+    largeur : 250px
+    hauteur : 140px
+    nmobre de segments : 880
+
+nom : coq.pbm
+    largeur : 700px
+    hauteur : 720px
+    nombre de segments: 5386
+
+nom : elephant.pbm
+    largeur : 800px
+    hauteur : 700px
+    nombre de segments: 5344
+
+
+nom : gymnaste.pbm
+    largeur : 1056px
+    hauteur : 1647px
+    nombre de segments: 8784
+
+
+nom : image_ex_poly.pbm
+    largeur : 4px
+    hauteur : 4px
+    nombre de segments: 18
+
+
+nom : labyrinthe.pbm
+    largeur : 221px
+    hauteur : 201px
+    nombre de segments: 44000
+
+
+nom : lettreZ.pbm
+    largeur : 600px
+    hauteur : 1029px
+    nombre de segments: 9396
+
+
+nom : map401.pbm
+    largeur : 830px
+    hauteur : 300px
+    nombre de segments: 8072
+
+
+nom : tete.pbm
+    largeur : 1252px
+    hauteur : 1252px
+    nombre de segments: 8136
+
+
+

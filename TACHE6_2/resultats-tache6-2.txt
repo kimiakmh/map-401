@@ -1,0 +1,93 @@
+image_poly_tache6.pbm 
+d = 1
+Nombre total de contours : 3
+Nombre total de segments : 488
+Nombre total de segments du contour simplifié : 67
+
+****************************************************
+
+image_poly_tache6.pbm 
+d = 2
+Nombre total de contours : 3
+Nombre total de segments : 488
+Nombre total de segments du contour simplifié : 43
+
+****************************************************
+
+elephant-gotlib.pbm 
+d = 1
+Nombre total de contours : 313
+Nombre total de segments : 115564
+Nombre total de segments du contour simplifié : 13150
+
+****************************************************
+
+elephant-gotlib.pbm 
+d = 2
+Nombre total de contours : 313
+Nombre total de segments : 115564
+Nombre total de segments du contour simplifié : 4280
+
+****************************************************
+
+goudyini-A.pbm 
+d = 1
+Nombre total de contours : 258
+Nombre total de segments : 73444
+Nombre total de segments du contour simplifié : 5290
+
+****************************************************
+
+goudyini-A.pbm 
+d = 2
+Nombre total de contours : 258
+Nombre total de segments : 73444
+Nombre total de segments du contour simplifié : 2713
+
+****************************************************
+
+JoaquimHock-LesArbres.pbm 
+d = 1
+Nombre total de contours : 543
+Nombre total de segments : 231284
+Nombre total de segments du contour simplifié : 26484
+
+****************************************************
+
+JoaquimHock-LesArbres.pbm 
+d = 2
+Nombre total de contours : 543
+Nombre total de segments : 231284
+Nombre total de segments du contour simplifié : 13087
+
+****************************************************
+
+cheval.pbm 
+d = 1
+Nombre total de contours : 59
+Nombre total de segments : 32002
+Nombre total de segments du contour simplifié : 3147
+
+****************************************************
+
+cheval.pbm 
+d = 2
+Nombre total de contours : 59
+Nombre total de segments : 32002
+Nombre total de segments du contour simplifié : 1381
+
+****************************************************
+
+papillon2.pbm 
+d = 1
+Nombre total de contours : 140
+Nombre total de segments : 18212
+Nombre total de segments du contour simplifié : 1908
+
+****************************************************
+
+papillon2.pbm 
+d = 2
+Nombre total de contours : 140
+Nombre total de segments : 18212
+Nombre total de segments du contour simplifié : 1035
